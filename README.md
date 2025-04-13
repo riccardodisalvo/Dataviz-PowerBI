@@ -23,19 +23,19 @@ TechMarket S.p.A is a large electronics retail chain with stores across Italy. T
 
 Develop a Power BI report featuring the following pages and visualizations:
 
-- **Page 1: Monthly Sales Visualization** 📅
+- **Page 1: Monthly Sales Visualization** 
   - **Visuals:** Display sales for each month, considering `Discount`, `Units Sold`, and `Price`.
 
-- **Page 2: Units Sold by City** 🌍
+- **Page 2: Units Sold by City** 
   - **Visuals:** Show the number of units sold in each city.
 
-- **Page 3: Product Information** 📦
+- **Page 3: Product Information** 
   - **Visuals:** Provide detailed information for each product.
 
-- **Page 4: Store Information** 🏪
+- **Page 4: Store Information** 
   - **Visuals:** Display information for each store.
 
-- **Page 5: Sales Data Excluding Returns** ❌
+- **Page 5: Sales Data Excluding Returns** 
   - **Visuals:** Calculate and display net sales for January and February 2014.
  
 ### 3. Additional Requirements
