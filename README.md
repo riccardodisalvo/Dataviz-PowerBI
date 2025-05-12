@@ -1,4 +1,4 @@
-# TechMarket Sales Management Report
+# TechMarket Sales Report
 
 In this project, I was tasked with creating a report for TechMarket S.p.A, a leading electronics retail chain in Italy. The report focuses on analyzing sales data from 2014 to provide actionable insights for business decisions. 
 
