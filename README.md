@@ -1,8 +1,10 @@
-# Descrizione del Progetto
+# Gestione delle Vendite per Punti Vendita di TechMarket S.p.A.
+
+## Descrizione del Progetto
 
 TechMarket S.p.A., una delle principali catene di distribuzione al dettaglio di prodotti di elettronica in Italia, si trova a dover gestire grandi quantità di dati provenienti dai suoi punti vendita. L'obiettivo del progetto è implementare un sistema di reportistica avanzato che aggrega e visualizza i dati di vendita in modo chiaro e navigabile, permettendo ai decision-maker di monitorare le vendite, le performance dei prodotti, l’efficacia delle promozioni e la resa di ogni singolo negozio.
 
-# Obiettivo del Progetto
+## Obiettivo del Progetto
 
 - Creare un report interattivo che permetta ai manager di TechMarket di:
     Visualizzare le vendite mensili considerando sconti, unità vendute e prezzo.
@@ -11,7 +13,7 @@ TechMarket S.p.A., una delle principali catene di distribuzione al dettaglio di 
     Ottenere una panoramica completa dei dati di ciascun punto vendita.
     Integrare i dati dei resi per calcolare le vendite nette e avere una visione più accurata delle performance.
 
-# Valore Aggiunto
+## Valore Aggiunto
 
 Decisioni basate sui dati: Accesso a informazioni precise e aggiornate per prendere decisioni strategiche mirate.
 Ottimizzazione delle vendite e delle promozioni: Identificazione di sconti e offerte con il maggiore impatto sulle vendite.
@@ -19,7 +21,7 @@ Monitoraggio in tempo reale dei punti vendita: Miglioramento della gestione dell
 Gestione dei resi: Calcolo delle vendite nette per una visione accurata delle performance.
 Interattività e navigabilità: Report di facile utilizzo anche per utenti non tecnici.
 
-# Fasi del Progetto
+## Fasi del Progetto
 
 1. ### Caricamento dei Dati
 -**Dati delle Vendite:** Caricamento dei file dalla cartella DATI (link: DATI), contenenti informazioni sulle vendite nei vari mesi del 2014.
@@ -42,11 +44,12 @@ Creazione di una nuova pagina con dati sui resi, mostrando le vendite nette per 
 5. Navigabilità e Interattività
 Il report sarà completamente navigabile, con pulsanti e segnalibri per accedere rapidamente alle sezioni chiave.
 
-# Conclusione
+## Conclusione
 
 Il progetto di gestione dei punti vendita per TechMarket S.p.A. rappresenta un’importante opportunità per ottimizzare la gestione delle vendite e migliorare le decisioni aziendali. Il miglioramento della visibilità sui dati, la capacità di prendere decisioni strategiche più informate e l'ottimizzazione delle risorse a livello di punto vendita sono i principali benefici. L'integrazione dei dati sui resi fornisce una visione realistica delle vendite nette, aumentando la capacità dell’azienda di adattarsi rapidamente alle variazioni del mercato.
 
-# Contributi
+## Contributi
 
 Questo progetto rappresenta un avanzamento significativo nella gestione dei dati di vendita per TechMarket S.p.A., migliorando la capacità di prendere decisioni strategiche basate su evidenze numeriche.
+
 Contributi e feedback sono benvenuti! 
