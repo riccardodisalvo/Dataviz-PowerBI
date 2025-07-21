@@ -25,10 +25,10 @@ Interattività e navigabilità: Report di facile utilizzo anche per utenti non t
 -**Dati delle Vendite:** Caricamento dei file dalla cartella DATI (link: DATI), contenenti informazioni sulle vendite nei vari mesi del 2014.
 -**Dati Aggiuntivi:** Caricamento dei file dalla cartella DATI NEGOZI, con informazioni sui negozi, sui prodotti e sulle province italiane.
    
-3. ### Trasformazione dei Dati
+2. ### Trasformazione dei Dati
 Utilizzo della funzione Merge di Query per unire le tabelle, ottenendo informazioni come il Prezzo Unitario e la Descrizione Prodotto per ciascun Prodotto_ID.
 
-4. ### Creazione del Report Interattivo
+3. ### Creazione del Report Interattivo
 Composizione del report con diverse pagine:
 
 -**Vendite per Mese:** Visualizzazione delle vendite totali per ciascun mese.
